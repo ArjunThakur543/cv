@@ -1,0 +1,135 @@
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    line-break: 2;
+    background-color: #e6edf7;
+
+}
+
+
+
+
+
+.main-heading {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+}
+.sub-heading {
+    font-family: 'Quintessential', cursive;
+}
+
+.intro {
+    display: flex;
+
+}
+.name-address {
+    width: 35%;
+    margin-right: 10%;
+    text-align: left;
+    
+}
+.contact-mail {
+    float: right;
+    text-align: right;
+    line-height: 1;
+    width: 30%;
+    margin: 0 0 0 auto;
+}
+.objective {
+    width: 50%;
+    margin: auto;
+}
+.table {
+    text-align: left;
+    margin: auto;
+    column-gap: 20%;
+
+}
+.table-data{
+    padding-right: 5rem;
+}
+hr {
+    border: dotted 1px;
+    border-bottom: 0;
+    width: 10%;
+    margin: 2em auto;
+    
+
+
+}
+.img {
+    margin-left: 10%;
+    width: 1.2rem;
+    float: right;
+
+}
+.industry-img {
+    width: 4rem;
+    float: right;
+
+}
+.IT {
+    width:70%;
+    margin: 5% auto;
+    text-align: left;
+    line-height: 1.5;
+
+}
+
+.academic {
+    width:70%;
+    margin: 5% auto;
+    text-align: left;
+    line-height: 1.8;
+
+
+}
+.academic ul{
+    list-style: none;
+}
+
+.interest {
+    width:70%;
+    margin: 5% auto;
+    text-align: left;
+    line-height: 2;
+
+
+}
+
+.strength {
+    width:70%;
+    margin: 5% auto;
+    text-align: left;
+    line-height: 1.5;
+
+}
+
+.personal {
+    width: 80%;
+    margin: 5% auto;
+    text-align: left;
+    line-height: 1.5;
+
+}
+
+.social-img {
+    width: 3rem;
+    margin: 5% 10%;
+    border-radius: 50%;
+
+
+}
+.social-img:hover {
+    width: 4rem;
+    background-color: ;
+
+}
+.table {
+
+}
+
